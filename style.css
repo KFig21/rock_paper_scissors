@@ -46,7 +46,7 @@ h1{
 
 @media screen and (max-width: 600px) {
   .choice {
-    margin: 20px 8px;
+    margin: 20px 6px;
   }
   .choice-span{
     font-size: 68px;
