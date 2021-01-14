@@ -48,7 +48,11 @@ h1{
   .choice {
     margin: 20px 8px;
   }
+  .choice-span{
+    font-size: 68px;
+  }
 }
+
     .selection{
         transform: scale(1.1);
         /* background-color: rgba(255, 255, 255, 0.8); */
